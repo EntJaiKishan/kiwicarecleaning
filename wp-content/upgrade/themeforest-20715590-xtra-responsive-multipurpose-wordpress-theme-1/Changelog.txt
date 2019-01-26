@@ -1,0 +1,209 @@
+/* List of updates */
+
+UPDATE GUIDE ===> http://theme.support/doc/xtra#update
+
+======================================================
+v2.5.1 - [12 November 2018]
+
+Added:
+	New plugins auto update function
+
+Improved:
+	Single post page featured image
+	Single shop lightbox feature
+
+======================================================
+v2.5 - [6 November 2018]
+
+Added:
+	Marquee text element
+	StyleKits for bbpress plugin
+	Post formats for blog posts
+	New loading page type by percentage
+	Option for limiting posts grid title in one line
+	Icon option and target links for custom menu widget
+	Option for changing product page tabs structure (Center, Vertical)
+	New extra row class "cz_row_reverse" for reversing columns in mobile
+	Visibility header elements option for logged in or non-logged in users
+
+Improved:
+	Mega menu
+	Posts author link
+	AJAX non-latin links
+	Posts grid element
+	Animations in safari
+
+Note:
+	- For getting demos pages shortcode, In live demos > find cog icon > click on last icon
+	- ajax.js file moved from theme > js to codevz-plus > assets folder
+
+======================================================
+v2.4 - [8 October 2018]
+
+Added:
+	Author box stylekit
+	Icon & text 2 for header
+	Number & image for hotspot
+
+Improved:
+	StyleKit menus
+	Gradient title
+	Older PHP versions
+
+======================================================
+v2.3 - [19 September 2018]
+
+Added:
+	5 New Demos [Industrial, Tattoo Shop, Personal Blog, Cleaning, Metro Blog]
+	12 New Loading screen effects option
+	Icon selection for popup close icon
+	Default icon selection for stylish list
+	Option for disabling woo product features
+
+Improved:
+	Shop add to cart stylekit
+	Child theme load style
+	Page as element multilingual
+
+Note:
+	Option for custom page 404 changed, if you want custom page 404, Create a new page and name it 404
+
+======================================================
+v2.2 - [5 September 2018]
+
+Added:
+	5 New Demos [Web Agency, Parallax, Kids, Gardening, 3D]
+	20 New row dividers for Separator element
+	Icon selection for button in header
+	Gallery filters items count on hover
+	Link support for title and text element
+	Carousel support for products element
+	StyleKit for product page tabs
+
+Improved:
+	AJAX mode scripts
+	Gallery element effects
+
+======================================================
+v2.1 - [20 August 2018]
+
+Added:
+	Custom code field instead loading screen image
+	New feature particles container element
+	New image hover FX for gallery and posts
+	Easy digital download Style Kits + Header cart
+	Unlimited sidebar generator, usage for specific pages
+
+Improved:
+	Products page meta settings
+	Fullscreen and Offcanvas menus
+
+======================================================
+v2 - [27 July 2018]
+
+Added:
+	5 New Demos [Smart Home, Corporate, Logistic, Beauty Salon, Photography 3]
+	StyleKit for menus sub title
+	120+ New icons
+
+Improved:
+	Gallery and Posts in RTL mode
+
+======================================================
+v1.9 - [6 June 2018]
+
+Added:
+	1 New Demo [Music]
+	Placeholder, hover icon for post types
+	New effects drop downs, Header > Dropdown StyleKit
+	Custom post type UI support
+	Buy icon for music player
+	Chess posts template
+
+Improved:
+	Offcanvas scrolling
+ 
+======================================================
+v1.8 - [28 May 2018]
+
+Added:
+	2 New Demos [Coffee, Interior]
+	170+ new useful icons
+	GDPR Compatibility with WordPress GDPR plugins
+	Vertical 2x height featured image for post types
+	Block reveal animation under Advanced tab
+	Custom page support for post types
+	New template for all post types
+
+======================================================
+v1.7 - [13 May 2018]
+
+Added:
+	Ajax search count and thumbnail visibility
+	Megamenu8 columns support with new auto width
+	Hover mouse cursor for Gallery and Posts
+	Show on hover for Tabs + 13 CSS3 animation
+	Megamenu center & reverse mode position
+
+======================================================
+v1.6 - [30 April 2018]
+
+Added:
+	Option for filtering search post types
+	Ajax mode continuously fixed Music player
+	Hover style kit for Service Box element
+
+Improved:
+	Demo importer cross-operating compatibility
+	Google map inside Offcanvas, popup and Ajax mode
+	Title element line break with icon & line
+
+======================================================
+v1.5 - [24 April 2018]
+
+Added:
+	2 New Demos [Cryptocurrency, Photography 2]
+	Zoom feature for photos in lighbox
+
+Improved:
+	Anchor menu links to other pages
+	Lightbox videos auto detection
+ 
+======================================================
+v1.4 - [16 April 2018]
+
+Added:
+	New Demo [Financial Consultation]
+	Intro animations for Posts and Gallery
+	Option for adding page before mobile header
+	Multi row sticky supports for Headers
+ 
+======================================================
+v1.3 - [29 March 2018]
+
+Added:
+	2 New Demos [RTL, Adventures Blog]
+	Header styling for single pages
+	Custom image size for Gallery
+
+Improved:
+	Draft auto save CSS output
+
+======================================================
+v1.2 - [9 March 2018]
+
+Improved:
+	Menu navigation meta
+	Carousel & List styles
+	Woocommerce shop CSS
+ 
+======================================================
+v1.1 - [6 March 2018]
+
+Improved:
+	Demo importer AJAX process
+
+======================================================
+v1.0 [6 March 2018]
+
+- initial release
